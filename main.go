@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/MarkTBSS/029_Inheritance/living_instance"
+	"github.com/MarkTBSS/029_Inheritance_Polymorphism/living_instance"
 )
 
 func main() {
